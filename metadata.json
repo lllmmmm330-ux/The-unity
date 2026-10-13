@@ -1,0 +1,6 @@
+{
+  "name": "عرب تولز - منصة الأدوات المجانية السريعة",
+  "description": "منصة أدوات مجانية متخصصة بالعربي: دمج وضغط وتوقيع PDF، إزالة خلفية صور المنتجات لبائعي إنستغرام، وصانع السيرة الذاتية CV الاحترافي في ثوانٍ بدون تسجيل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
